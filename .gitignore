@@ -4,3 +4,10 @@ varitabani.txt
 musteri.txt
 aa.txt
 
+belgeler
+!belgeler/dosya1.html
+belgeler/*
+belgeler2/*
+belgeler3/*
+!belgeler3/dosya1.html
+!belgeler2/dosya4.html
